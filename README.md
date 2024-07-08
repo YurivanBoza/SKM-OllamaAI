@@ -1,2 +1,2 @@
 # SKM-OllamaAI
-Integration of local Ollama models with Semantic Kernel and Kernel Memory
+Integration of Local Ollama Artificial Intelligence (OllamaAI) Models with Semantic Kernel and Kernel Memory (SKM)
